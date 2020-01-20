@@ -1,0 +1,9 @@
+This Repository contains implementations of heuristics to solve certain optimization problems. 
+
+SavingsAlgorithm2.py - This file implements several variations of the savings algorithm for route determination. This was a prompted 
+question from the Northwestern course IEMS 381, and all code was written by myself. The algorithm is detailed well through comments
+in the code. It ranges from implementations of the standard savings algorithm, to the savings algorithm with randomness to find a more 
+optimal solution, and finally an implementation that offers 2-edge optimization to further enhance the final solution. 
+
+NetworkVisualization.py - This file is used to visualize the graphs created by the SavingsAlgorithm2.py script. It is used to showcase
+the final solution realized from solving the problem instances provided by the course. 
